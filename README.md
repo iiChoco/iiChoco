@@ -1,19 +1,5 @@
-### Hi there 👋
+![iiChoco's Stats](https://github-readme-stats.vercel.app/api?username=iiChoco&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on nothing in particular.
-- 🌱 I’m currently learning Java && C++
-- 💬 Ask me about anything!
-- 📫 How to reach me: You can't :D
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+![iiChoco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iiChoco&theme=tokyonight&hide_border=true)
 
-The base personal repo template is so bad
-
-
-<!--
-**iiChoco/iiChoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+![iiChoco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iiChoco&theme=tokyonight&show_icons=true&hide_border=true&layout=compac)
